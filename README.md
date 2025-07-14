@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Novels Services - International BPO/KPO Company">
   <title>Novels Services | International BPO/KPO Company</title>
-  <link rel="icon" href="novels_services_favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://novelsservices.github.io/novels-services-site/novels_services_favicon.ico" type="image/x-icon">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -56,7 +56,7 @@
 </head>
 <body>
   <header>
-    <img src="novels_services_side_logo.png" alt="Novels Services Logo">
+    <img src="https://novelsservices.github.io/novels-services-site/novels_services_side_logo.png" alt="Novels Services Logo">
     <h1>Novels Services</h1>
     <p>Your International BPO/KPO Partner</p>
   </header>
