@@ -129,7 +129,7 @@
     📧 Email: <a href="mailto:novaedgeservices@gmail.com">novaedgeservices@gmail.com</a><br>
     📞 Phone: <a href="tel:+918875209697">8875209697</a><br>
     🔗 LinkedIn: <a href="https://www.linkedin.com/in/novels-services-27b593371" target="_blank">Novels Services LinkedIn</a><br>
-    📍 Address: 34 Meena Padha, Dhanmandi
+    📍 Address: 34 Meena Padha, Dhanmandi, Udaipur, Rajasthan
     </p>
   </div>
 
