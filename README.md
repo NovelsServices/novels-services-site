@@ -64,7 +64,8 @@
   <div class="container">
     <h2>About Us</h2>
     <p>Novels Services is a premium outsourcing partner based in India, offering world-class BPO (Business Process Outsourcing) and KPO (Knowledge Process Outsourcing) services to international clients. With over 2.7 years of industry experience, we have successfully delivered results for clients in data entry, customer support, insurance processing, and global client handling.</p>
-    <p>Our mission is to provide scalable, secure, and cost-effective support solutions that drive measurable impact and operational efficiency.</p>
+    <p><strong>Our Mission:</strong> To provide scalable, secure, and cost-effective support solutions that drive measurable impact and operational efficiency.</p>
+    <p><strong>Our Vision:</strong> To be recognized as a trusted global outsourcing leader, delivering excellence and innovation through tailored solutions that empower our clients' growth and success.</p>
 
     <h2>Our Services</h2>
     <h3>BPO Services:</h3>
@@ -128,8 +129,7 @@
     📧 Email: <a href="mailto:novaedgeservices@gmail.com">novaedgeservices@gmail.com</a><br>
     📞 Phone: <a href="tel:+918875209697">8875209697</a><br>
     🔗 LinkedIn: <a href="https://www.linkedin.com/in/novels-services-27b593371" target="_blank">Novels Services LinkedIn</a><br>
-    📍 Address: 34 Meena Padha, Dhanmandi<br>
-    🌐 Website: <a href="https://novelsservices.github.io/novels-services-site/" target="_blank">Live GitHub Site</a>
+    📍 Address: 34 Meena Padha, Dhanmandi
     </p>
   </div>
 
